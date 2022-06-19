@@ -1,0 +1,32 @@
+{
+    "register": 
+    [
+        {
+            "name": "MASAI School",
+            "email": "hello@masai.com",
+            "password": "secret",
+            "username": "masai-school",
+            "mobile": "9876543210",
+            "description": "A Transformation in education!" 
+          }
+    ],
+
+    "login": 
+    [
+        {
+            "password": "secret",
+            "username": "masai-school"
+          }
+    ],
+
+    "profile":
+    [
+        {
+            "name": "MASAI School",
+            "email": "hello@masai.com",
+            "username": "masai-school",
+            "mobile": "9876543210",
+            "description": "A Transformation in education!" 
+          }
+    ]
+}
